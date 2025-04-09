@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://ghchart.rshah.org/wolfsmith520-github" alt="2024 Yearly Stats" />
 </div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/wolfsmith520-github" alt="2023 Yearly Stats" />
-</div>
