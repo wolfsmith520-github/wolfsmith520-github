@@ -10,4 +10,4 @@
 
 ### Profile Views
 counting of visitors to this page in this section started from April 15, 2025
-![Moe Counter](https://count.getloli.com/@wolfsmith520-github?theme=booru-jaypee)
+![Moe Counter](https://count.getloli.com/@wolfsmith520-github?theme=booru-helltaker)
