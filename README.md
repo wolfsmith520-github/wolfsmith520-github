@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfsmith520-github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<h3 align="center"><img src="https://github.com/wolfsmith520-github/wolfsmith520-github/blob/output/github-contribution-grid-snake.svg"/></h3>
+
 <h2 align="center">Connect with me</h2>
 <h4 align="center">National Email : wolfsmith2020@gmail.com</h4>
 <h4 align="center">Chinese Email : wolfsmith_mail@163.com</h4>
