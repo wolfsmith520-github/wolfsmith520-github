@@ -62,7 +62,13 @@
 </p>
 
 <!--根据贡献图制作的贪吃蛇-->
-<h3 align="center"><img src="https://github.com/wolfsmith520-github/wolfsmith520-github/blob/output/github-contribution-grid-snake.svg"/></h3>
+<h3 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/wolfsmith520-github/wolfsmith520-github/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://github.com/wolfsmith520-github/wolfsmith520-github/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</h3>
+
 <!--页面浏览量-->
 <h2 align="center"> Profile Views</h2>
 <h4 align="center">counting of visitors to this page in this section started from April 15, 2025 </h4>
