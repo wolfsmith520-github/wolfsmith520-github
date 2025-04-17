@@ -5,6 +5,16 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+!+I+am+wOLFSMITh+and+welcome+to+my+profile+!&center=true&width=1000&height=50"/>
 </p>
 
+<!-- 该rope的信息，以及我的Youtube订阅量 -->
+<p align="center">
+    <a href="https://github.com/wolfsmith520-github/wolfsmith520-github"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="GitHub Status"></a>
+    <a href="https://github.com/wolfsmith520-github/wolfsmith520-github/graphs/contributors"><img src="https://img.shields.io/github/contributors/wolfsmith520-github/wolfsmith520-github.svg?color=blue" alt="GitHub Contributors"></a>
+    <a href="https://github.com/wolfsmith520-github/wolfsmith520-github/stargazers"><img src="https://img.shields.io/github/stars/wolfsmith520-github/wolfsmith520-github.svg?logo=github" alt="GitHub Stars"></a>
+    <a href="https://github.com/wolfsmith520-github/wolfsmith520-github/network/members"><img src="https://img.shields.io/github/forks/wolfsmith520-github/wolfsmith520-github.svg?color=blue&logo=github" alt="GitHub Forks"></a>
+    <a href="https://github.com/wolfsmith520-github/followers"><img src="https://img.shields.io/github/followers/wolfsmith520-github.svg?style=social&label=Follow" alt="GitHub Followers"></a>
+    <a href="https://www.youtube.com/@wolfsmith9342"><img src="https://img.shields.io/youtube/channel/subscribers/UCzsBOj132Lx-YbEvw75UfYw?style=social&label=Subscribe" alt="YouTube Subscribers"></a>
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wolfsmith520-github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfsmith520-github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
