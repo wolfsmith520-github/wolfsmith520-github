@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm wOLFSMITh</h1>
-
 <!-- 打字机效果的欢迎文字 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+!+I+am+wOLFSMITh+and+welcome+to+my+profile+!&center=true&width=1000&height=50"/>
 </p>
-
 <!-- 该rope的信息，以及我的Youtube订阅量 -->
 <p align="center">
     <a href="https://github.com/wolfsmith520-github/wolfsmith520-github"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="GitHub Status"></a>
@@ -14,6 +12,33 @@
     <a href="https://github.com/wolfsmith520-github?tab=followers"><img src="https://img.shields.io/github/followers/wolfsmith520-github.svg?style=social&label=Follow" alt="GitHub Followers"></a>
     <a href="https://www.youtube.com/@wolfsmith9342"><img src="https://img.shields.io/youtube/channel/subscribers/UCzsBOj132Lx-YbEvw75UfYw?style=social&label=Subscribe" alt="YouTube Subscribers"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=wolfsmith520-github.wolfsmith520-github" alt="visitors"/>  
+</p>
+<!--图标网站 https://simpleicons.org-->
+<!--开发语言-->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height=35>
+  <img src="https://img.shields.io/badge/C%23-0078D6?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0078D6" alt="Csharp" height=35>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height=35>
+</p>
+<!--游戏引擎-->
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" height=35>
+  <img src="https://img.shields.io/badge/Godot-478186?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" height=35>
+  <img src="https://img.shields.io/badge/Unreal-FFFFFF?style=for-the-badge&logo=unreal-engine&logoColor=black" alt="Unreal Engine" height=35>
+  <img src="https://img.shields.io/badge/Source-F79A10?style=for-the-badge&logo=sourceengine&logoColor=black" alt="Source Engine" height=35>
+</p>
+<!--IDE-->
+<p align="center">
+  <img src="https://img.shields.io/badge/RIDER-FFFFFF?style=for-the-badge&logo=rider&logoColor=black" alt="Rider" height=35>
+  <img src="https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm" height=35>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height=35>
+</p>
+<!--Tools-->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" alt="Hexo" height=35>
+  <img src="https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp" height=35>
+  <img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS" height=35>
+  <img src="https://img.shields.io/badge/7ZIP-FFFFFF?style=for-the-badge&logo=7zip&logoColor=black" alt="Rider" height=35>
 </p>
 
 <div align="center">
