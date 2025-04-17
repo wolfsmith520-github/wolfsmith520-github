@@ -63,6 +63,8 @@
 
 <!--根据贡献图制作的贪吃蛇-->
 <h3 align="center"><img src="https://github.com/wolfsmith520-github/wolfsmith520-github/blob/output/github-contribution-grid-snake.svg"/></h3>
+<h3 align="center"><img src="https://github.com/wolfsmith520-github/wolfsmith520-github/blob/main/profile-3d-contrib/profile-night-green.svg" width=800/></h3>
+
 
 <!--根据贡献图制作的3D展示图-->
 
