@@ -37,7 +37,19 @@
   <img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS" height=35>
   <img src="https://img.shields.io/badge/7ZIP-FFFFFF?style=for-the-badge&logo=7zip&logoColor=black" alt="Rider" height=35>
 </p>
+<!--联系方式-->
+<p align="center">Contect Me</p>
+<p>
+  <div align="center">
+    <a href="https://space.bilibili.com/352619945"><img src="https://img.shields.io/badge/BILIBILI-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" height=35></a>
+    <a href="https://discordapp.com/users/696587537963155516"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height=35></a>
+    <a href=""><img src="https://img.shields.io/badge/1606162198-1EBAFC?style=for-the-badge&logo=qq&logoColor=white" alt="Discord" height=35></a>
+    <a href=""><img src="https://img.shields.io/badge/wolfsmith2020-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Discord" height=35></a>
+  </div>
+</p>
 
+
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wolfsmith520-github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfsmith520-github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
