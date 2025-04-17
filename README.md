@@ -1,3 +1,4 @@
+![](asset/up_img.jpg)
 <!--
 <h1 align="center">Hi 👋, I'm wOLFSMITh</h1>
 <!-- 打字机效果的欢迎文字 -->
