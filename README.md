@@ -11,8 +11,9 @@
     <a href="https://github.com/wolfsmith520-github/wolfsmith520-github/graphs/contributors"><img src="https://img.shields.io/github/contributors/wolfsmith520-github/wolfsmith520-github.svg?color=blue" alt="GitHub Contributors"></a>
     <a href="https://github.com/wolfsmith520-github/wolfsmith520-github/stargazers"><img src="https://img.shields.io/github/stars/wolfsmith520-github/wolfsmith520-github.svg?logo=github" alt="GitHub Stars"></a>
     <a href="https://github.com/wolfsmith520-github/wolfsmith520-github/network/members"><img src="https://img.shields.io/github/forks/wolfsmith520-github/wolfsmith520-github.svg?color=blue&logo=github" alt="GitHub Forks"></a>
-    <a href="https://github.com/wolfsmith520-github/followers"><img src="https://img.shields.io/github/followers/wolfsmith520-github.svg?style=social&label=Follow" alt="GitHub Followers"></a>
+    <a href="https://github.com/wolfsmith520-github?tab=followers"><img src="https://img.shields.io/github/followers/wolfsmith520-github.svg?style=social&label=Follow" alt="GitHub Followers"></a>
     <a href="https://www.youtube.com/@wolfsmith9342"><img src="https://img.shields.io/youtube/channel/subscribers/UCzsBOj132Lx-YbEvw75UfYw?style=social&label=Subscribe" alt="YouTube Subscribers"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=wolfsmith520-github.wolfsmith520-github" alt="visitors"/>  
 </p>
 
 <div align="center">
