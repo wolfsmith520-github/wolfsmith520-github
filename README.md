@@ -26,15 +26,12 @@
   <img src="https://img.shields.io/badge/Godot-478186?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" height=35>
   <img src="https://img.shields.io/badge/Unreal-FFFFFF?style=for-the-badge&logo=unreal-engine&logoColor=black" alt="Unreal Engine" height=35>
   <img src="https://img.shields.io/badge/Source-F79A10?style=for-the-badge&logo=sourceengine&logoColor=black" alt="Source Engine" height=35>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height=35>
 </p>
 <!--IDE-->
 <p align="center">
   <img src="https://img.shields.io/badge/RIDER-FFFFFF?style=for-the-badge&logo=rider&logoColor=black" alt="Rider" height=35>
   <img src="https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm" height=35>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height=35>
-</p>
-<!--Tools-->
-<p align="center">
   <img src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" alt="Hexo" height=35>
   <img src="https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp" height=35>
   <img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS" height=35>
