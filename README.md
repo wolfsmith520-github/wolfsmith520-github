@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp" height=35>
   <img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS" height=35>
   <img src="https://img.shields.io/badge/7ZIP-FFFFFF?style=for-the-badge&logo=7zip&logoColor=black" alt="Rider" height=35>
+  <img src="https://img.shields.io/badge/TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Rider" height=35>
 </p>
 <!--联系方式-->
 <p align="center">Contect Me</p>
@@ -63,11 +64,8 @@
 
 <!--根据贡献图制作的贪吃蛇-->
 <h3 align="center"><img src="https://github.com/wolfsmith520-github/wolfsmith520-github/blob/output/github-contribution-grid-snake.svg"/></h3>
-<h3 align="center"><img src="https://github.com/wolfsmith520-github/wolfsmith520-github/blob/main/profile-3d-contrib/profile-night-green.svg" width=800/></h3>
-
-
 <!--根据贡献图制作的3D展示图-->
-
+<h3 align="center"><img src="https://github.com/wolfsmith520-github/wolfsmith520-github/blob/main/profile-3d-contrib/profile-night-green.svg" width=800/></h3>
 
 <!--页面浏览量-->
 <h2 align="center"> Profile Views</h2>
