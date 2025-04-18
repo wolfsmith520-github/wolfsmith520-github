@@ -25,7 +25,7 @@
 <!--游戏引擎-->
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" height=35>
-  <img src="https://img.shields.io/badge/Godot-478186?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" height=35>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" height=35>
   <img src="https://img.shields.io/badge/Unreal-FFFFFF?style=for-the-badge&logo=unreal-engine&logoColor=black" alt="Unreal Engine" height=35>
   <img src="https://img.shields.io/badge/Source-F79A10?style=for-the-badge&logo=sourceengine&logoColor=black" alt="Source Engine" height=35>
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height=35>
