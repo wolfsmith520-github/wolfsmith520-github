@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: wolfsmith520-github
-          config_timezone: Europe/Minsk  # 设置时区为明斯克时间
+          config_timezone: Asia/Shanghai  # 设置时区为上海时间
           
           # 显示配置
           # config_display: columns     # 按列显示信息 (当前被注释)
