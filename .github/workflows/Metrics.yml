@@ -1,10 +1,12 @@
 name: Metrics
 on:
-  # Schedule daily updates
+  # 每日定时更新 (UTC 时间每天 0 点)
   schedule: [{cron: "0 0 * * *"}]
+  # 允许手动触发工作流
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  # (可选) 当推送到 master/main 分支时触发
   push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -13,45 +15,50 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: wolfsmith520-github
-          config_timezone: Europe/Minsk
-#          config_display: columns  # отображать информацию по колонкам
-          committer_message: "chore: update metrics"
-          template: classic
-          base: header, activity, community, repositories, metadata  # базовый контент (информация о пользователе)
-          plugin_introduction: yes  # общая информация о аккаунте
-#          plugin_sponsors: yes
+          config_timezone: Europe/Minsk  # 设置时区为明斯克时间
+          
+          # 显示配置
+          # config_display: columns     # 按列显示信息 (当前被注释)
+          template: classic            # 使用经典模板
+          base: header, activity, community, repositories, metadata  # 基础模块：头部信息、活动、社区、仓库、元数据
 
-          plugin_isocalendar: yes  # 3д изокалендарь
-          plugin_isocalendar_duration: full-year  # отображает активность за полный год
+          # 提交配置
+          committer_message: "chore: update metrics"  # 提交时的消息
 
-          plugin_languages: yes  # отображение применяемых языков программирования
-          plugin_languages_details: bytes-size, percentage  # дополнительная информация о коде размер и процент
+          # 插件配置
+          plugin_introduction: yes      # 显示账户概览
+          # plugin_sponsors: yes        # 赞助信息显示 (当前被注释)
 
-          plugin_achievements: yes
+          plugin_isocalendar: yes                          # 3D 贡献日历
+          plugin_isocalendar_duration: full-year           # 显示全年活动
 
-          plugin_achievements_threshold: X  # (покажет фишки достижений которые еще не разблокированы)
-          plugin_achievements_display: detailed  # детальное описание фишек достижений
+          plugin_languages: yes                           # 编程语言统计
+          plugin_languages_details: bytes-size, percentage # 显示代码体积和占比
 
-          plugin_calendar: yes  # отображает активность по годам от текущего и далее
-          plugin_calendar_limit: 11 # отображает активность за столько лет
+          plugin_achievements: yes                        # GitHub 成就系统
+          plugin_achievements_threshold: X                 # 显示未解锁成就的阈值 (需替换 X 为数字)
+          plugin_achievements_display: detailed           # 显示成就详细信息
 
-          plugin_habits: yes  # активность за сутки и неделю
-          plugin_habits_facts: yes  # отображает анализ вашей активность за неделю
-          plugin_habits_charts: yes  # отображает характеристики
+          plugin_calendar: yes                # 历年活动日历
+          plugin_calendar_limit: 2           # 显示最近 2 年的活动
 
-          plugin_licenses: yes  # информация о лицензиях
-          plugin_licenses_setup: npm ci  # подробная информация о применяемых лицензиях
+          plugin_habits: yes                # 每日/每周编码习惯
+          plugin_habits_facts: yes          # 显示每周活动分析
+          plugin_habits_charts: yes        # 显示习惯图表
 
-          plugin_skyline: yes  # плагин 3д активности скайлайн
-          plugin_skyline_year: 2022 # за какой год
-          plugin_skyline_frames: 120  # количество кадров
-          plugin_skyline_quality: 1  # качество 1 - лучшее
+          plugin_licenses: yes              # 开源许可证信息
+          plugin_licenses_setup: npm ci     # 许可证检测命令
 
-          plugin_stargazers: yes  # активность за месяц
-          plugin_stargazers_charts_type: chartist  # тип активности - плавные линии
+          plugin_skyline: no               # GitHub Skyline 3D 模型
+          plugin_skyline_year: 2022         # 指定生成年份
+          plugin_skyline_frames: 120        # 动画帧数
+          plugin_skyline_quality: 1         # 渲染质量 (1=最高)
 
-          plugin_support: yes  # плагин поддержки
+          plugin_stargazers: yes            # 星标用户统计
+          plugin_stargazers_charts_type: chartist  # 使用平滑线图
 
-          plugin_topics: yes  # плагин ипсользуемых тем
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          plugin_support: yes               # 显示支持信息
+          
+          plugin_topics: yes                # 仓库主题标签
+          plugin_topics_limit: 0            # 显示全部主题 (0=无限制)
+          plugin_topics_mode: icons         # 以图标形式显示
