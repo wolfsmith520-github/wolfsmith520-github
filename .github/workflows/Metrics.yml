@@ -35,7 +35,7 @@ jobs:
           plugin_languages: yes                           # 编程语言统计
           plugin_languages_details: bytes-size, percentage # 显示代码体积和占比
 
-          plugin_achievements: yes                        # GitHub 成就系统
+          plugin_achievements: no                        # GitHub 成就系统
           plugin_achievements_threshold: X                 # 显示未解锁成就的阈值 (需替换 X 为数字)
           plugin_achievements_display: detailed           # 显示成就详细信息
 
@@ -54,10 +54,10 @@ jobs:
           plugin_skyline_frames: 120        # 动画帧数
           plugin_skyline_quality: 1         # 渲染质量 (1=最高)
 
-          plugin_stargazers: yes            # 星标用户统计
+          plugin_stargazers: no            # 星标用户统计
           plugin_stargazers_charts_type: chartist  # 使用平滑线图
 
-          plugin_support: yes               # 显示支持信息
+          plugin_support: no               # 显示支持信息
           
           plugin_topics: yes                # 仓库主题标签
           plugin_topics_limit: 0            # 显示全部主题 (0=无限制)
