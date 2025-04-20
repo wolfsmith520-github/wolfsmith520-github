@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm wOLFSMITh</h1>
 <!-- 打字机效果的欢迎文字 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+!+I+am+wOLFSMITh+and+welcome+to+my+profile+!;+I'm+a+collage+studnet+from+China+.;I+make+video+games+.;&center=true&width=1000&height=100&size=32&font=Righteous"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi ! I am wOLFSMITh and welcome to my profile !;+I'm+a+collage+studnet+from+China+.;I+make+video+games+.;&center=true&width=1000&height=100&size=32&font=Righteous"/>
 </p>
 <!-- 该rope的信息，以及我的Youtube订阅量 -->
 <p align="center">
