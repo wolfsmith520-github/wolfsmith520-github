@@ -58,8 +58,8 @@
 <h2 align="center"> Statistics</h2>
 <p align="center">
     <img width="46%" src="https://github-readme-stats.vercel.app/api?username=wolfsmith520-github&include_all_commits=true&theme=radical&hide_border=false" alt="GitHub Stats">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wolfsmith520-github&theme=radical&hide_border=false" alt="GitHub Streak Stats">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfsmith520-github&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=dracula&hide_border=false" alt="languages graph">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wolfsmith520-github&theme=radical&hide_border=false&count_private=true" alt="GitHub Streak Stats">
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfsmith520-github&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=dracula&hide_border=false&count_private=true" alt="languages graph">
 </p>
 
 <!--根据贡献图制作的贪吃蛇-->
