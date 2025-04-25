@@ -29,7 +29,7 @@ jobs:
           plugin_introduction: yes      # 显示账户概览
           # plugin_sponsors: yes        # 赞助信息显示 (当前被注释)
 
-          plugin_isocalendar: yes                          # 3D 贡献日历
+          plugin_isocalendar: no                          # 3D 贡献日历
           plugin_isocalendar_duration: full-year           # 显示全年活动
 
           plugin_languages: yes                           # 编程语言统计
