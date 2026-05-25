@@ -70,9 +70,9 @@
 <h3 align="center"><img src="https://github.com/wolfsmith520-github/wolfsmith520-github/blob/main/github-metrics.svg" width=800/></h3>
 
 <!--页面浏览量-->
-<h2 align="center"> Profile Views</h2>
+<h2 align="center">Profile Views</h2>
 <h4 align="center">counting of visitors to this page in this section started from April 15, 2025 </h4>
-<h3 align="center"><img src="https://count.getloli.com/@wolfsmith520-github?theme=booru-jaypee"/></h3>
+<h3 align="center"><img src="https://count.getloli.com/@wolfsmith520-github?theme=booru-touhoulat"/></h3>
 
 
 
