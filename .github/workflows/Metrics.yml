@@ -42,7 +42,7 @@ jobs:
           plugin_calendar: yes              # 历年活动日历
           plugin_calendar_limit: 1          # 显示最近 1 年的活动
 
-          plugin_habits: yes                # 每日/每周编码习惯
+          plugin_habits: no                 # 每日/每周编码习惯
           plugin_habits_facts: yes          # 显示每周活动分析
           plugin_habits_charts: yes         # 显示习惯图表
 
@@ -59,6 +59,6 @@ jobs:
 
           plugin_support: no                # 显示支持信息
           
-          plugin_topics: yes                # 仓库主题标签
+          plugin_topics: no                 # 仓库主题标签
           plugin_topics_limit: 0            # 显示全部主题 (0=无限制)
           plugin_topics_mode: icons         # 以图标形式显示
