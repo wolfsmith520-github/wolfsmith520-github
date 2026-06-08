@@ -55,8 +55,8 @@
 <!--账号数据-->
 <h2 align="center"> Statistics</h2>
 <p align="center">
-    <img height=180 src="https://github-stats-extended.vercel.app/api?username=wolfsmith520-github&show_icons=true&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=wolfsmith520-github&theme=radical&hide_border=false&count_private=true" alt="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-stats-extended.vercel.app/api?username=wolfsmith520-github&show_icons=true&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolfsmith520-github&theme=radical&hide_border=false&count_private=true" alt="https://github.com/denvercoder1/github-readme-streak-stats">
 </p>
 
 <!--根据贡献图制作的贪吃蛇-->
