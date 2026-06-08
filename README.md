@@ -48,8 +48,6 @@
     <a href="https://space.bilibili.com/352619945"><img src="https://img.shields.io/badge/BILIBILI-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" height=35></a>
     <!--<a href="https://discordapp.com/users/696587537963155516"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height=35></a>-->
     <a href="https://wolfsmith520-github.github.io/"><img src="https://img.shields.io/badge/BLOG-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" alt="Discord" height=35></a>
-  <!--</div>-->
-  <div align="center">
     <a href=""><img src="https://img.shields.io/badge/1606162198-1EBAFC?style=for-the-badge&logo=qq&logoColor=white" alt="Discord" height=35></a>
     <a href=""><img src="https://img.shields.io/badge/wolfsmith2020-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Discord" height=35></a>
   </div>
