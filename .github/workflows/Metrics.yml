@@ -40,7 +40,7 @@ jobs:
           plugin_achievements_display: detailed          # 显示成就详细信息
 
           plugin_calendar: yes              # 历年活动日历
-          plugin_calendar_limit: 1          # 显示最近 1 年的活动
+          plugin_calendar_limit: 2          # 显示最近 1 年的活动
 
           plugin_habits: no                 # 每日/每周编码习惯
           plugin_habits_facts: yes          # 显示每周活动分析
@@ -49,7 +49,7 @@ jobs:
           plugin_licenses: yes              # 开源许可证信息
           plugin_licenses_setup: npm ci     # 许可证检测命令
 
-          plugin_skyline: yes               # GitHub Skyline 3D 模型
+          plugin_skyline: no               # GitHub Skyline 3D 模型
           plugin_skyline_year: 2025         # 指定生成年份
           plugin_skyline_frames: 120        # 动画帧数
           plugin_skyline_quality: 1         # 渲染质量 (1=最高)
