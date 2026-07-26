@@ -41,8 +41,8 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -87,7 +87,7 @@ Touhou fan Hina Hina Hina !</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            251 Commits
+                            253 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -237,14 +237,14 @@ Touhou fan Hina Hina Hina !</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.9693698411827" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="269.9693698411827" y="0" width="88.64998810383591" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="358.61935794501863" y="0" width="33.31710668395482" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="391.93646462897345" y="0" width="24.019001482445063" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="415.9554661114185" y="0" width="19.943966955412616" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="435.8994330668311" y="0" width="8.62922964946439" height="8" fill="#478CBF"/>
-                    <rect mask="url(#languages-bar)" x="444.52866271629546" y="0" width="8.174321742668374" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="452.70298445896384" y="0" width="7.297015541036134" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.2262738000442" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="270.2262738000442" y="0" width="88.6772535425607" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="358.90352734260495" y="0" width="33.223719012070035" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="392.127246354675" y="0" width="23.95167634972209" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.07892270439703" y="0" width="19.88806412267924" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="435.9669868270763" y="0" width="8.60504196489841" height="8" fill="#478CBF"/>
+                    <rect mask="url(#languages-bar)" x="444.57202879197473" y="0" width="8.151409162532696" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="452.7234379545074" y="0" width="7.276562045492578" height="8" fill="#ff6347"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -256,8 +256,8 @@ Touhou fan Hina Hina Hina !</div>
                                 GDScript
                             </div>
                             <small>
-                                <div>8.34 MB</div>
-                                <div>58.69%</div>
+                                <div>8.37 MB</div>
+                                <div>58.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,7 +269,7 @@ Touhou fan Hina Hina Hina !</div>
                             </div>
                             <small>
                                 <div>1.03 MB</div>
-                                <div>7.24%</div>
+                                <div>7.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -281,7 +281,7 @@ Touhou fan Hina Hina Hina !</div>
                             </div>
                             <small>
                                 <div>615 kB</div>
-                                <div>4.34%</div>
+                                <div>4.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -293,7 +293,7 @@ Touhou fan Hina Hina Hina !</div>
                             </div>
                             <small>
                                 <div>252 kB</div>
-                                <div>1.78%</div>
+                                <div>1.77%</div>
                             </small>
                         </div>
                     </section>
@@ -306,8 +306,8 @@ Touhou fan Hina Hina Hina !</div>
                                 C#
                             </div>
                             <small>
-                                <div>2.74 MB</div>
-                                <div>19.27%</div>
+                                <div>2.75 MB</div>
+                                <div>19.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -319,7 +319,7 @@ Touhou fan Hina Hina Hina !</div>
                             </div>
                             <small>
                                 <div>741 kB</div>
-                                <div>5.22%</div>
+                                <div>5.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -331,7 +331,7 @@ Touhou fan Hina Hina Hina !</div>
                             </div>
                             <small>
                                 <div>266 kB</div>
-                                <div>1.88%</div>
+                                <div>1.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -343,7 +343,7 @@ Touhou fan Hina Hina Hina !</div>
                             </div>
                             <small>
                                 <div>225 kB</div>
-                                <div>1.59%</div>
+                                <div>1.58%</div>
                             </small>
                         </div>
                     </section>
@@ -626,6 +626,7 @@ Touhou fan Hina Hina Hina !</div>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1107,7 +1108,7 @@ Touhou fan Hina Hina Hina !</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2026, 09:22:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2026, 09:25:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
