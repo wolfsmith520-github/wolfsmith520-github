@@ -238,7 +238,7 @@ Touhou fan Hina Hina Hina !</div>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="270.2262738000442" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="270.2262738000442" y="0" width="88.6772535425607" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="270.2262738000442" y="0" width="88.6772535425607" height="8" fill="#7355dd"/>
                     <rect mask="url(#languages-bar)" x="358.90352734260495" y="0" width="33.223719012070035" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="392.127246354675" y="0" width="23.95167634972209" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="416.07892270439703" y="0" width="19.88806412267924" height="8" fill="#f1e05a"/>
@@ -301,7 +301,7 @@ Touhou fan Hina Hina Hina !</div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 C#
                             </div>
@@ -668,6 +668,7 @@ Touhou fan Hina Hina Hina !</div>
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1149,7 +1150,7 @@ Touhou fan Hina Hina Hina !</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2026, 08:31:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2026, 13:21:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
